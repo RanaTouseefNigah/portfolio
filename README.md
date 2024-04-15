@@ -21,4 +21,4 @@ https://ranatouseefnigah.github.io/portfolio/
   
 
 
-![Screenshot 2024-04-15 143326](https://github.com/RanaTouseefNigah/portfolio/images/img/Screenshot 2024-04-15 143326.png)
+![Screenshot 2024-04-15 143326](https://github.com/RanaTouseefNigah/portfolio/blob/fee29d994e0e1e30074fd73722943139965ae0d5/images/img/Screenshot%202024-04-15%20143326.png)
