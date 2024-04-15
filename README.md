@@ -1,24 +1,24 @@
-# Sameer Bhavar Portfolio
-<!-- sameer bhavar Portfolio -->
+# Rana Touseef Portfolio
+<!-- Rana Touseef Portfolio -->
 
 My portfolio This portfolio  created using html,css,javascript and Bootstrap.In this portfolio I added my projects my tech skill
   
-  ## Tech Stacks 🛠
+## Tech Stacks 🛠
     
-    HTML 5, CSS, JavaScript and Bootstrap
+HTML 5, CSS, JavaScript and Bootstrap
     
-  ## Team Members :-
-  - Rana Touseef Nigah
-  - Magnet Code's (Rana Touseef)
+## Team Members :-
+- Rana Touseef Nigah
+- Magnet Code's (Rana Touseef)
  
 
-  ## Clone Snaps :-
-    ![github landing](https://github.com/RanaTouseefNigah/portfolio/assets/100944934/b30e7a10-f315-4ef2-87f1-1e3fb9710421)
-  
+## Clone Snaps :-
 
-  # Deployed Link :-
-    https://ranatouseefnigah.github.io/portfolio/
+
+# Deployed Link :-
+https://ranatouseefnigah.github.io/portfolio/
     
   
 
 
+![Screenshot 2024-04-15 143326](https://github.com/RanaTouseefNigah/portfolio/images/img/Screenshot 2024-04-15 143326.png)
