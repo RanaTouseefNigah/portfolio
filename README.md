@@ -19,7 +19,7 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
   
   
   # Deployed Link :-
-    https://sameerbhavar.github.io/
+    https://ranatouseefnigah.github.io/portfolio/
     
   
 
