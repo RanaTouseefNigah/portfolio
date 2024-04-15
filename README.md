@@ -8,11 +8,12 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
     HTML 5, CSS, JavaScript and Bootstrap
     
   ## Team Members :-
-  - Sameer Bhavar
+  - Rana Touseef Nigah
+  - Magnet Code's (Rana Touseef)
  
   
   ## Clone Snaps :-
-  ![github landing](https://user-images.githubusercontent.com/50591381/192941496-89e0c422-9f4c-44ee-b1af-c36cd012ca19.PNG)
+  ## ![github landing](https://user-images.githubusercontent.com/50591381/192941496-89e0c422-9f4c-44ee-b1af-c36cd012ca19.PNG)
 
   
 
